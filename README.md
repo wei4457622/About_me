@@ -19,7 +19,7 @@
 - 使用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
 - 使用Vue結合Vuex、Vue-router實現SPA在網頁上的渲染
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
-- 使用 JavaScript & jQuery Plugin 整合第三方插件動畫效果，例如：Swiper、Video.js、Layui)
+- 使用 JavaScript & jQuery Plugin 整合第三方插件動畫效果，例如：Swiper、Video.js、Layui
 - 使用純 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
 <hr>
 
