@@ -15,7 +15,7 @@
 - 博弈網站前端維護
 
 ## 專業技能
-- JavaScript 介接第三方 API 設計 SPA 頁面 (Google Maps、表單驗證、Open Data)
+- 對原生JavaScript有基礎的了解，並介接第三方 API 設計 SPA 頁面 (Google Maps、Open Data)
 - 使用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
 - 使用Vue結合Vuex、Vue-router實現SPA在網頁上的渲染
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
