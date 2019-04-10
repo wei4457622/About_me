@@ -44,7 +44,7 @@
   ⌞ <a href="https://wei4457622.github.io/source1/" target="_blank">利用Bootstrap 版型與 JavaScript 搭配 jQuery 動態產生線上計價清單</a>
 
 - <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API</b><br>
-  ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">連結</a>
+  ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">響應式版型</a>
 
 
 
