@@ -21,7 +21,6 @@
 - 使用 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
 - 使用 JavaScript & jQuery Plugin 整合第三方插件動畫效果(swiper、video.js、layui)
-- 了解 Git / Github 與基本指令運用
 <hr>
 
 ## 作品集
