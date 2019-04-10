@@ -36,15 +36,17 @@
 
 - <b>Bootstrap 搭配 Open Data 與 Google Maps API(旅行資訊網)</b><br>
   ⌞ <a href="https://wei4457622.github.io/bootstrap-api/" target="_blank">BS 版型搭配 jQuery 製作套件，並利用 JavaScript 配合 AJAX 引入外部資料並呈現於頁面上</a>
-
-- <b>後台版型</b><br>
-  ⌞ <a href="https://wei4457622.github.io/ordersystem/index.html" target="_blank">善用Bootstrap Modal 與 Chart.js 刻畫出後台版型</a>
+  
+- <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API</b><br>
+  ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">響應式版型</a>
 
 - <b>Bootstrap 版型</b><br>
   ⌞ <a href="https://wei4457622.github.io/source1/" target="_blank">利用Bootstrap 版型與 JavaScript 搭配 jQuery 動態產生線上計價清單</a>
+  
+- <b>後台版型</b><br>
+  ⌞ <a href="https://wei4457622.github.io/ordersystem/index.html" target="_blank">善用Bootstrap Modal 與 Chart.js 刻畫出後台版型</a>
 
-- <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API</b><br>
-  ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">響應式版型</a>
+
 
 
 
