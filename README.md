@@ -42,13 +42,6 @@
 - <b>Bootstrap 版型</b><br>
   ⌞ <a href="https://wei4457622.github.io/source1/" target="_blank">利用Bootstrap 版型與 JavaScript 搭配 jQuery 動態產生線上計價清單</a>
 
-- <b>利用 Node.js 結合前後端，並用原生 JavaScript 規劃出表單驗證</b><br>
-  ⌞ <a href="https://wei4457622.github.io/invaildForm/public/index.html" target="_blank">第一頁</a>
-  ⌞ <a href="https://wei4457622.github.io/invaildForm/public/step2.html" target="_blank">第二頁</a>
-  ⌞ <a href="https://wei4457622.github.io/invaildForm/public/step3.html" target="_blank">第三頁</a>
-  ⌞ <a href="https://wei4457622.github.io/invaildForm/public/step4.html" target="_blank">第四頁</a>
-  ⌞ <a href="https://wei4457622.github.io/invaildForm/public/step5.html" target="_blank">第五頁</a>
-
 - <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API</b><br>
   ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">第一頁</a>
   ⌞ <a href="https://wei4457622.github.io/RWD/order.html" target="_blank">第二頁</a>
