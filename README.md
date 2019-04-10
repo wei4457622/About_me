@@ -47,11 +47,6 @@
   ⌞ <a href="https://wei4457622.github.io/RWD/order.html" target="_blank">第二頁</a>
   ⌞ <a href="https://wei4457622.github.io/RWD/login.html" target="_blank">第三頁</a>
 
-- <b>HTML CSS版型</b><br>
-⌞ <a href="https://wei4457622.github.io/wei0808/" target="_blank">基本純CSS、HTML 版型規劃一</a>
-⌞ <a href="https://wei4457622.github.io/wei0809/" target="_blank">基本純CSS、HTML 版型規劃二</a>
-
-
 
 
 
