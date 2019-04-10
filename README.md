@@ -7,7 +7,11 @@
 <hr>
 
 ## 工作經驗
-- 龍鼎有限公司(前端) - 2018/9 ~ 在職中
+龍鼎有限公司(前端) - 2018/9 ~ 在職中
+- 使用利用ajax串接各種API後端資料及Bootstrap版型規劃
+- 使用版本控制Git進行專案版控
+- 利用JS及jQuery pulgin實行apk及網站的特效與功能
+- 博弈網站前端維護
 
 ## 專業技能
 - JavaScript 介接第三方 API 設計 SPA 頁面 (Google Maps、表單驗證、Open Data)
@@ -19,6 +23,16 @@
 <hr>
 
 ## 作品集
+- <b>博弈網前端部分及界接後端資料(利用RWD及scss、marquee)</b><br>
+   ⌞ <a href="https://www.xmt518.com/?desktop=1" target="_blank">連結</a>
+   ⌞ <a href="https://www.xmt518.com/?mob=1" target="_blank">連結</a>
+   
+- <b>博弈網前端手機部分(界接後端資料及根據設計圖完成所有版型規劃)</b><br>
+   ⌞ <a href="https://www.jfw188.com/?mob=1" target="_blank">連結</a>
+
+- <b>視訊站前端部分(利用ajax串接各種API後端資料及所有版型規劃)</b><br>
+   ⌞ <a href="http://125.227.152.72:8081/video_front/index.html" target="_blank">連結</a>
+
 - <b>Bootstrap 搭配 Open Data 與 Google Maps API(旅行資訊網)</b><br>
   ⌞ <a href="https://wei4457622.github.io/bootstrap-api/" target="_blank">BS 版型搭配 jQuery 製作套件，並利用 JavaScript 配合 AJAX 引入外部資料並呈現於頁面上</a>
 
