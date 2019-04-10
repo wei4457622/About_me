@@ -8,17 +8,19 @@
 
 ## 工作經驗
 龍鼎有限公司(前端) - 2018/9 ~ 在職中
+- 視訊站apk前端開發並利用ajax串接資料及pulgin做特效
 - 使用ajax串接各種API後端資料及Bootstrap版型規劃
-- 利用JS及jQuery pulgin實行apk及網站的特效與功能
+- 利用響應式設計手機及桌面板的博弈網站並用php串接後端
 - 使用版本控制Git進行專案版控
 - 博弈網站前端維護
 
 ## 專業技能
 - JavaScript 介接第三方 API 設計 SPA 頁面 (Google Maps、表單驗證、Open Data)
-- 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
+- 使用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
+- 使用Vue結合Vuex、Vue-router實現SPA在網頁上的渲染
 - 使用 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
-- 善用 JavaScript & jQuery Plugin 整合第三方插件動畫效果(swiper、video.js、layui)
+- 使用 JavaScript & jQuery Plugin 整合第三方插件動畫效果(swiper、video.js、layui)
 - 了解 Git / Github 與基本指令運用
 <hr>
 
