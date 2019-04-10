@@ -25,14 +25,14 @@
 
 ## 作品集
 - <b>視訊站前端部分(利用ajax串接各種API後端資料及所有版型規劃)</b><br>
-   ⌞ <a href="http://125.227.152.72:8081/video_front/index.html" target="_blank">連結</a>
+   ⌞ <a href="http://125.227.152.72:8081/video_front/index.html" target="_blank">視訊站</a>
    
 - <b>博弈網前端部分及界接後端資料(利用RWD及scss、marquee)</b><br>
-   ⌞ <a href="https://www.xmt518.com/?desktop=1" target="_blank">連結</a>
-   ⌞ <a href="https://www.xmt518.com/?mob=1" target="_blank">連結</a>
+   ⌞ <a href="https://www.xmt518.com/?desktop=1" target="_blank">電腦版</a>
+   ⌞ <a href="https://www.xmt518.com/?mob=1" target="_blank">手機版</a>
    
 - <b>博弈網前端手機部分(界接後端資料及根據設計圖完成所有版型規劃)</b><br>
-   ⌞ <a href="https://www.jfw188.com/?mob=1" target="_blank">連結</a>
+   ⌞ <a href="https://www.jfw188.com/?mob=1" target="_blank">手機板</a>
 
 - <b>Bootstrap 搭配 Open Data 與 Google Maps API(旅行資訊網)</b><br>
   ⌞ <a href="https://wei4457622.github.io/bootstrap-api/" target="_blank">BS 版型搭配 jQuery 製作套件，並利用 JavaScript 配合 AJAX 引入外部資料並呈現於頁面上</a>
@@ -43,7 +43,7 @@
 - <b>Bootstrap 版型</b><br>
   ⌞ <a href="https://wei4457622.github.io/source1/" target="_blank">利用Bootstrap 版型與 JavaScript 搭配 jQuery 動態產生線上計價清單</a>
 
-- <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API</b><br>
+- <b>不靠任何 Framework 規劃 RWD 響應式版型，並且在首頁引入 Google Maps API(在第一頁)</b><br>
   ⌞ <a href="https://wei4457622.github.io/RWD/" target="_blank">第一頁</a>
   ⌞ <a href="https://wei4457622.github.io/RWD/order.html" target="_blank">第二頁</a>
   ⌞ <a href="https://wei4457622.github.io/RWD/login.html" target="_blank">第三頁</a>
