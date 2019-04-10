@@ -10,7 +10,7 @@
 龍鼎有限公司(前端) - 2018/9 ~ 在職中
 - 視訊站apk前端開發並利用ajax串接資料及pulgin做特效
 - 利用響應式設計手機及桌面板的博弈網站並用php串接後端
-- 導入Bootstrap做版型規劃增加開發效率
+- 導入Bootstrap做版型規劃以及CSS preprocessor增加開發效率
 - 使用版本控制Git進行專案版控
 - 博弈網站前端維護
 
@@ -18,7 +18,7 @@
 - JavaScript 介接第三方 API 設計 SPA 頁面 (Google Maps、表單驗證、Open Data)
 - 使用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
 - 使用Vue結合Vuex、Vue-router實現SPA在網頁上的渲染
-- 使用 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
+- 使用純 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
 - 使用 JavaScript & jQuery Plugin 整合第三方插件動畫效果(swiper、video.js、layui)
 <hr>
