@@ -6,6 +6,9 @@
 - Mobile: 0976-810-993
 <hr>
 
+## 工作經驗
+- 龍鼎有限公司(前端) - 2018/9 ~ 在職中
+
 ## 專業技能
 - JavaScript 介接第三方 API 設計 SPA 頁面 (Google Maps、表單驗證、Open Data)
 - 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
