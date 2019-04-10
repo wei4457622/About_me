@@ -8,9 +8,9 @@
 
 ## 工作經驗
 龍鼎有限公司(前端) - 2018/9 ~ 在職中
-- 使用利用ajax串接各種API後端資料及Bootstrap版型規劃
-- 使用版本控制Git進行專案版控
+- 使用ajax串接各種API後端資料及Bootstrap版型規劃
 - 利用JS及jQuery pulgin實行apk及網站的特效與功能
+- 使用版本控制Git進行專案版控
 - 博弈網站前端維護
 
 ## 專業技能
@@ -18,7 +18,7 @@
 - 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
 - 使用 HTML、CSS 完成 RWD 網頁佈局及架構，並且不用 Framework 進行 RWD 客製化
 - 使用 Bootstrap 規劃響應式網頁版型，並善用 SCSS 管理 CSS
-- 善用 jQuery Plugin 整合第三方插件動畫效果
+- 善用 JavaScript & jQuery Plugin 整合第三方插件動畫效果(swiper、video.js、layui)
 - 了解 Git / Github 與基本指令運用
 <hr>
 
